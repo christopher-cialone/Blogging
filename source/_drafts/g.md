@@ -1,7 +1,7 @@
 ---
-title: {{ title }}
-tags:
-author: "Christopher Cialone"
+title: g
+author: Christopher Cialone
+tags: [Tag3]
 ---
 ## Default Content: 
 They said they will, and they said they must
