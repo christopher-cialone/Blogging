@@ -1,5 +1,5 @@
 ---
-title: ty
+title: {{ title }}
 author: Christopher Cialone
 tags:
 ---

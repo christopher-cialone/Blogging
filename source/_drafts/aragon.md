@@ -1,8 +1,8 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: aragon
+author: Christopher Cialone
+date: 2023-01-29 06:12:19
 tags:
-author: "Christopher Cialone"
 ---
 ## Default Content: 
 They said they will, and they said they must
